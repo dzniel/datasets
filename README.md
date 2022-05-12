@@ -1,3 +1,3 @@
 # Datasets
 
-Repository storing datasets for personal needs.
+This repository store datasets being used for personal needs.
